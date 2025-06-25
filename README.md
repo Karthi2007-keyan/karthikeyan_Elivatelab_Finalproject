@@ -23,3 +23,6 @@ pip install requirment.txt
 this requirement.txt have the packages name 
 
 In tha dataste the with_mask and the without_mask should cointain 100 + photos for more accuaracy . 
+
+
+I have made another project also 
